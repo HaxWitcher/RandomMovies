@@ -107,6 +107,8 @@ label {
 select {
     width: 200px;
     height: auto;
+    background-color: #3CBC8D;
+
 }
 
 #likeOrDislikeBtns {
